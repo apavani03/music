@@ -1,0 +1,24 @@
+.heading{
+    font-size: 20px ;
+    width: 100% ;
+    margin: 0px ;
+}
+
+.note{
+    font-size: 16px ;
+    color: rgb(166, 245, 245);
+}
+
+body{
+    background-size: cover;
+}
+
+.div_speed{
+    float: left;
+}
+
+.div_volume{
+    float: right;
+}
+
+
